@@ -13,9 +13,9 @@ It was published in January 2019 by [Stefan Jansen](https://www.linkedin.com/in/
 
 # How the book is organized
 
-### Chapter 01: Machine Learning for Trading
+### [Chapter 01: Machine Learning for Trading] (01_machine_learning_for_trading)
 
-This [chapter](01_machine_learning_for_trading) summarizes how and why ML became central to investment, describes the trading process and outlines how ML can add value. 
+This [chapter] summarizes how and why ML became central to investment, describes the trading process and outlines how ML can add value. 
 
 ### Chapter 02: Market & Fundamental Data
 
