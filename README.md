@@ -1,6 +1,8 @@
 # Machine Learning for Algorithmic Trading - 1st Edition
 
-Link to file: https://drive.google.com/file/d/1hXfMvB_JRHJFZAHs2oBJ-55ZdHxBxbkz/view
+Link to the book: https://drive.google.com/file/d/1hXfMvB_JRHJFZAHs2oBJ-55ZdHxBxbkz/view
+Link to a parallel repo: https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading/tree/master/Chapter01
+
 
 It was published in January 2019 by [Stefan Jansen](https://www.linkedin.com/in/applied-ai/).
 
